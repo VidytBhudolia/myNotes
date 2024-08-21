@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499447727835",
+    "project_id": "mynotes-vidyt",
+    "storage_bucket": "mynotes-vidyt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499447727835:android:9f7bb0dfa58f93ec3b6efe",
+        "android_client_info": {
+          "package_name": "com.example.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCBSi7Sbg2lLCjBsaHBY8nfBi5hEohJUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
